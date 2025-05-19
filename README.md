@@ -80,9 +80,25 @@
 
 ---
 
+---
+
+### 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanibobdey&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanibobdey&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shivanibobdey&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
+
+---
+
+### 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanibobdey&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+<p align="center">🌟 Thanks for visiting my profile! Let's build something awesome together.</p>
+
 
 <p align="center">🌟 Thanks for visiting my profile!</p>
