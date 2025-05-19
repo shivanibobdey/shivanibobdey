@@ -80,8 +80,6 @@
 
 ---
 
----
-
 ### 🏆 GitHub Achievements
 
 <p align="center">
@@ -97,8 +95,6 @@
 </p>
 
 ---
-
-<p align="center">🌟 Thanks for visiting my profile! Let's build something awesome together.</p>
 
 
 <p align="center">🌟 Thanks for visiting my profile!</p>
