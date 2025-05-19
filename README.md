@@ -88,6 +88,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivani-bobdey&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-bobdey&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
 ### 📈 GitHub Activity Graph
 
 <p align="center">
