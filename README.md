@@ -80,6 +80,22 @@
 
 ---
 
+### 🎧 Current Vibe
+
+<table>
+  <tr>
+    <td>
+      <img src="https://i.scdn.co/image/ab67616d0000b273e8ce2690dce5a9df1a1f3466" alt="Space Girl" width="100"/>
+    </td>
+    <td style="vertical-align: middle; padding-left: 10px;">
+      <b>Frances Forever</b><br/>
+      Space Girl &nbsp;&nbsp;&nbsp; Space Girl
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🏆 GitHub Achievements
 
 <p align="center">
